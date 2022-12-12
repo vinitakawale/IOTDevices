@@ -1,0 +1,38 @@
+Arguments: 
+  /Users/vut000e/nvm/nodejs/v14.16.1/bin/node /Users/vut000e/nvm/nodejs/bin/yarn add express
+
+PATH: 
+  /Users/vut000e/nvm/nodejs/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/sbin:/Library/TeX/texbin:/usr/local/go/bin:/usr/local/munki:/Users/vut000e/nvm/nodejs/bin:/Users/vut000e/opt/miniconda3/bin:/Users/vut000e/opt/miniconda3/condabin:/Users/vut000e/.sledge/bin:/Users/vut000e/.sledge/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  14.16.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND npme.walmart.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+
+npm manifest: 
+  {
+    "name": "IOTDevices",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
